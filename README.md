@@ -29,7 +29,10 @@ Example 2: Career Path Recommendations
 Example 3: Skill Development Modules
         ![skill dev modules](https://github.com/user-attachments/assets/2c56431b-ee4d-41db-b904-e7361ff5a6a6)
 
+Example 3: 
+        ![image](https://github.com/user-attachments/assets/cede6293-7e71-4071-abae-06b204f64aee)
 
+ 
 **📈 Impact**
 MetaMentor has the potential to:
 
