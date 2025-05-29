@@ -69,8 +69,4 @@ Special thanks to our team:
 
 2.Arwind Ragaw S K
 
-3.Jayapriya M
-
-4.Samsthana K L
-
 5.Yokeshwaran S
