@@ -65,8 +65,7 @@ We welcome contributions! Please check out our CONTRIBUTING.md for guidelines.
 **🌟 Acknowledgments**
 Special thanks to our team:
 
-1.Anantha Padmanabhan S
 
-2.Arwind Ragaw S K
+1.Arwind Ragaw S K
 
-5.Yokeshwaran S
+2.Yokeshwaran S
