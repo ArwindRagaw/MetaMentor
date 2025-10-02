@@ -1,9 +1,12 @@
+**Warpway: Solution for Low IQ Autism Children**
 **MetaMentor: Shaping Women's Careers with AI-Powered Mentorship ✨**
 
+An adaptive Solution for Low IQ kids to enhance thier Critical thinking amd Real worl Problem solving.
 Empowering women with personalized career guidance and immersive mentoring experiences.
 
 **🚀 Overview**
-MetaMentor is an AI-driven platform designed to bridge the gap in women's career development. By integrating cutting-edge technologies like Unreal Engine Metahumans, Retrieval-Augmented Generation (RAG), and NLP, the platform delivers personalized guidance and lifelike virtual mentorship to address systemic barriers and empower women globally.
+**Warpway**Warpway, an adaptive, choice-based video learning platform that uses AI tools like Stable Diffusion, Deforum, and Unreal Engine to generate realistic scenarios. Children face day-to-day situations, make choices, and immediately see the outcomes of their decisions.Warpway not only builds cognitive skills but also empowers children to learn safely, with personalization through guardian voices and progress tracking. This innovation ensures inclusive, experiential learning like never before.
+**MetaMentor** is an AI-driven platform designed to bridge the gap in women's career development. By integrating cutting-edge technologies like Unreal Engine Metahumans, Retrieval-Augmented Generation (RAG), and NLP, the platform delivers personalized guidance and lifelike virtual mentorship to address systemic barriers and empower women globally.
 
 **🎯 Features**
 AI-Powered Career Guidance: Personalized insights based on user profiles.
@@ -22,16 +25,24 @@ Here are some sample outputs from MetaMentor:
 
 Example 1: Interactive scenarios.
        ![Interactive Scenarios](https://github.com/user-attachments/assets/62573caa-4894-482a-ba36-e23097a9cab9)
+       ![reward system](https://github.com/user-attachments/assets/762359e0-d379-4c8a-a22d-646e92819967)
 
-       
-Example 2: Career Path Recommendations 
+Example 2: Parent and Kid Mode
+        ![Modes]![parent mode](https://github.com/user-attachments/assets/63b47256-763d-402b-b2bf-e4076ebccb0e)
+
+
+Example 3: Memory Games.
+        ![Games]![games](https://github.com/user-attachments/assets/33526e91-425c-4948-aa35-27fbe5dbcc48)
+
+
+Example 4: Career Path Recommendations 
         ![Career path](https://github.com/user-attachments/assets/a0b87ee3-3c0f-4a97-b680-dbd6196795ab)
 
-Example 3: Skill Development Modules
+Example 5: Skill Development Modules
         ![skill dev modules](https://github.com/user-attachments/assets/2c56431b-ee4d-41db-b904-e7361ff5a6a6)
 
-Example 3: 
-        ![image](https://github.com/user-attachments/assets/cede6293-7e71-4071-abae-06b204f64aee)
+Example 6: Mentor For Guidance
+        ![image]![rag](https://github.com/user-attachments/assets/85585b29-42e8-492c-a630-e22b3ddcb543)
 
  
 **📈 Impact**
