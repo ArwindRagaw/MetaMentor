@@ -20,8 +20,9 @@ AI Frameworks: GPT-based NLP models, RAG for context-aware retrieval.
 **📊 Outputs**
 Here are some sample outputs from MetaMentor:
 
-Example 1: Personalized career advice 
-       ![Personalized career advice](https://github.com/user-attachments/assets/eb8db31e-8219-4ce7-8869-cc20f143268f)
+Example 1: Interactive scenarios.
+       ![Interactive Scenarios](https://github.com/user-attachments/assets/62573caa-4894-482a-ba36-e23097a9cab9)
+
        
 Example 2: Career Path Recommendations 
         ![Career path](https://github.com/user-attachments/assets/a0b87ee3-3c0f-4a97-b680-dbd6196795ab)
